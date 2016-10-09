@@ -18,7 +18,7 @@ A: I made this entirely by myself with no help.
 
 This was meant entirely for elysian, and so it will probably not work if you use another exploit.
 
-I've published this as a script, so you can call GetObjects on it, and can loadstring on it's source from there:
+I've published this as a script, so you can call GetObjects on it, and can call loadstring on it's source:
 
 **loadstring(game:GetObjects("rbxassetid://519083652")[1].Source)()**
 
