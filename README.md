@@ -13,7 +13,7 @@ Q: What does it copy?
 A: It copies all the contents in Workspace, Lighting, ReplicatedFirst, ReplicatedStorage, StarterPack, StarterGui, StarterPlayer, and Teams.
 
 Q: Who made this?
-A: I made this entirely by myself with no help.
+A: I made this entirely by myself.
 
 
 This was meant entirely for elysian, and so it will probably not work if you use another exploit.
