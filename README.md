@@ -7,12 +7,15 @@ I know a lot of them already exist (Dex has one), but this is for example, if yo
 **FAQ:**
 
 Q: What can it copy?
+
 A: It can copy all kinds of parts (basically the entire map), localscripts, modulescripts, terrain, and a lot more.
 
 Q: What does it copy?
+
 A: It copied all the contents in Workspace, Lighting, ReplicatedFirst, ReplicatedStorage, StarterPack, StarterGui, and StarterPlayer.
 
 Q: Who made this?
+
 A: I made this entirely by myself with no help.
 
 
