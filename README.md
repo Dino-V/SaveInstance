@@ -1,12 +1,10 @@
-[Rain] SaveInstance - Place Copier for Elysian (LocalScripts, Terrain, etc.)
+**[Rain] SaveInstance - Place Copier for Elysian (LocalScripts, Terrain, etc.)**
 
-
-Hi!
 
 This is a small open-source project I've been working on over the past few days. It serves a simple purpose, and that is to copy games.
 I know a lot of them already exist (Dex has one), but this is for example, if you're too lazy to open up Dex each time to just save the game (plus it offers some cool documentation!!).
 
-FAQ:
+**FAQ:**
 
 Q: What can it copy?
 A: It can copy all kinds of parts (basically the entire map), localscripts, modulescripts, terrain, and a lot more.
@@ -22,17 +20,7 @@ This was meant entirely for elysian, and so it will probably not work if you use
 
 I've published this as a script, so you can call GetObjects on it, and can loadstring on it's source from there:
 
-[code]
-
-loadstring(game:GetObjects("rbxassetid://519083652")[1].Source)()
-
-[/code]
-
-It is open-source so you can view it as much as you like, and see how it works:
-
-[code]
-
-[/code]
+**loadstring(game:GetObjects("rbxassetid://519083652")[1].Source)()**
 
 What it generates:
 
@@ -47,7 +35,7 @@ What it generates:
 
 Most of the stuff is pretty self-explanatory. I give information in the TERRAIN_DOCUMENTATION of how to load terrain (if there is terrain in the game you copied).
 
-[spoiler=How it works:]
+**How it works:**
 
 This takes advantage of several things that elysian has to offer, mainly decompile() and saveinstance().
 
@@ -59,6 +47,7 @@ Once it's done, it will simply save the entire model as a .rbxl file through sav
 
 It's pretty simple. There are of course some extra features/things the script does which are kind of hard to explain, but I'm sure you can understand by looking through the code.
 
-[/spoiler]
+
+
 
 I hope you enjoy this contribution! If you have any questions, please reply to this thread, or send me a PM.
