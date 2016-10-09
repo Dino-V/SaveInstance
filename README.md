@@ -26,12 +26,12 @@ What it generates:
 
 - A .rbxl file that you can open.
 	- All the copied services, each in a model.
-	- A GAME_DOCUMENTATION localscript that tells you information about the saving, and of the services it copied.
+	- A Game_Documentation localscript that tells you information about the saving, and of the services it copied.
 	- If any errors:
-		- An ERROR_LOGS localscript which explains the errors.
+		- An Error_Logs localscript which explains the errors.
 	- If any terrain:
 		- A SavedTerrain object.
-		- A TERRAIN_DOCUMENTATION localscript which explains how to use the terrain.
+		- A Terrain_Documentation localscript which explains how to use the terrain.
 
 Most of the stuff is pretty self-explanatory. I give information in the TERRAIN_DOCUMENTATION of how to load terrain (if there is terrain in the game you copied).
 
