@@ -33,7 +33,7 @@ What it generates:
 		- A SavedTerrain object.
 		- A Terrain_Documentation localscript which explains how to use the terrain.
 
-Most of the stuff is pretty self-explanatory. I give information in the TERRAIN_DOCUMENTATION of how to load terrain (if there is terrain in the game you copied).
+Most of the stuff is pretty self-explanatory. I give information in the Terrain_Documentation of how to load terrain (if there is terrain in the game you copied).
 
 **How it works:**
 
