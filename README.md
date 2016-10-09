@@ -2,7 +2,7 @@
 
 
 This is a small open-source project I've been working on over the past few days. It serves a simple purpose, and that is to copy games.
-I know a lot of them already exist (Dex has one), but this is for example, if you're too lazy to open up Dex each time to just save the game (plus it offers some cool documentation!!).
+I know a lot of them already exist (Dex has one), but this is for example, if you're too lazy to open up Dex each time to just save the game (plus it offers some cool documentation!!). It's also for if you want to learn how it works.
 
 **FAQ:**
 
