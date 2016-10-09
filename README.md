@@ -6,8 +6,8 @@ I know a lot of them already exist (Dex has one), but this is for example, if yo
 
 **FAQ:**
 
-Q: What can it copy?
-A: It can copy all kinds of parts (basically the entire map), localscripts, modulescripts, terrain, and a lot more.
+**Q:** What can it copy?
+**A:** It can copy all kinds of parts (basically the entire map), localscripts, modulescripts, terrain, and a lot more.
 
 Q: What does it copy?
 A: It copied all the contents in Workspace, Lighting, ReplicatedFirst, ReplicatedStorage, StarterPack, StarterGui, and StarterPlayer.
@@ -50,4 +50,4 @@ It's pretty simple. There are of course some extra features/things the script do
 
 
 
-I hope you enjoy this contribution! If you have any questions, please reply to this thread, or send me a PM.
+I hope you enjoy this contribution!
