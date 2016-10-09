@@ -10,7 +10,7 @@ Q: What can it copy?
 A: It can copy all kinds of parts (basically the entire map), localscripts, modulescripts, terrain, and a lot more.
 
 Q: What does it copy?
-A: It copies all the contents in Workspace, Lighting, ReplicatedFirst, ReplicatedStorage, StarterPack, StarterGui, and StarterPlayer.
+A: It copies all the contents in Workspace, Lighting, ReplicatedFirst, ReplicatedStorage, StarterPack, StarterGui, StarterPlayer, and Teams.
 
 Q: Who made this?
 A: I made this entirely by myself with no help.
